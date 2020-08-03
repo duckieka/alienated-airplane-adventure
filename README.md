@@ -4,7 +4,7 @@ um i did this in like 4 hours but i feel accomplished
 credit to the youtube vid -> "Build A Text Adventure Game With JavaScript"
 ^i followed along the video lololol, so yea 
 
-#how to play
+how to play:
 1. have visual studio code downloaded
 2. download the live server extension 
 3. copy the code into vs code/upload files into there
