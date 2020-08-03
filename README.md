@@ -12,3 +12,4 @@ credit to the youtube vid -> "Build A Text Adventure Game With JavaScript"
 5. it should automatically open up a window with the game
 6. yay have fun
 7. dont look at the code until you've played it a few times to avoid getting spoiled :D
+live server extension can be found here -> https://ritwickdey.github.io/vscode-live-server/docs/settings.html (i used install from vxcode marketplace)
